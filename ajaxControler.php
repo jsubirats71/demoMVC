@@ -8,6 +8,7 @@
  * @license Creative Commons BY-NC 3.0 (Licence Creative Commons Attribution - Pas d’utilisation commerciale 3.0 non transposé)
  * @license http://creativecommons.org/licenses/by-nc/3.0/deed.fr
  * 
+ * je viens de modifier un fichier pour voir comme travail le git 
  */
 
 	require_once("./config.php");
